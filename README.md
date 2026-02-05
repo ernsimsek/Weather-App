@@ -37,7 +37,8 @@ To use your own API key:
 ```bash
 const apiKey = "YOUR_API_KEY_HERE";
 ```
-<img width="280" height="502" alt="Ekran görüntüsü 2026-02-05 173328" src="https://github.com/user-attachments/assets/009c1dae-aded-4b02-bf32-cad8bf3e14d8" />
 
-<img width="280" height="500" alt="Ekran görüntüsü 2026-02-05 173310" src="https://github.com/user-attachments/assets/177bec5d-0564-4135-af0b-c8c0e80cdeb8" />
+<img width="547" height="821" alt="Ekran görüntüsü 2026-02-05 174016" src="https://github.com/user-attachments/assets/c206b3db-c04a-4be5-b495-bc5f9072e390" />
+
+<img width="547" height="821" alt="Ekran görüntüsü 2026-02-05 174024" src="https://github.com/user-attachments/assets/3c6d396a-9149-45b7-94b2-df6875c99b7f" />
 
