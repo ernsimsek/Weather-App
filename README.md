@@ -38,7 +38,7 @@ To use your own API key:
 const apiKey = "YOUR_API_KEY_HERE";
 ```
 
-<img width="547" height="821" alt="Ekran görüntüsü 2026-02-05 174016" src="https://github.com/user-attachments/assets/c206b3db-c04a-4be5-b495-bc5f9072e390" />
+<img width="247" height="521" alt="Ekran görüntüsü 2026-02-05 174016" src="https://github.com/user-attachments/assets/c206b3db-c04a-4be5-b495-bc5f9072e390" />
 
-<img width="547" height="821" alt="Ekran görüntüsü 2026-02-05 174024" src="https://github.com/user-attachments/assets/3c6d396a-9149-45b7-94b2-df6875c99b7f" />
+<img width="247" height="521" alt="Ekran görüntüsü 2026-02-05 174024" src="https://github.com/user-attachments/assets/3c6d396a-9149-45b7-94b2-df6875c99b7f" />
 
