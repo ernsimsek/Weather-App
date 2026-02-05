@@ -19,7 +19,7 @@ A simple and modern **Weather Web Application** that allows users to search for 
 To run the project locally:
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/ernsimsek/Weather-App.git
 ```
 
 API Key
