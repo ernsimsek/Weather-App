@@ -1,4 +1,3 @@
-
 #  Weather App
 
 A simple and modern **Weather Web Application** that allows users to search for current weather conditions and view upcoming forecasts by city name or by using their current location.
