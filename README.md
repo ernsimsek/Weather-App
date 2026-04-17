@@ -42,4 +42,5 @@ const apiKey = "YOUR_API_KEY_HERE";
 
 <img width="247" height="521" alt="Ekran görüntüsü 2026-02-05 174024" src="https://github.com/user-attachments/assets/3c6d396a-9149-45b7-94b2-df6875c99b7f" />
 
-<img width="247" height="521" alt="Ekran görüntüsü 2026-04-17 132247" src="https://github.com/user-attachments/assets/d932e720-9852-4fba-b2f6-c1c131eaf3b6" />
+<img width="247" height="521" alt="Ekran görüntüsü 2026-04-17 132819" src="https://github.com/user-attachments/assets/672e6b3f-4058-44e9-8f1a-2f826d3aeb8d" />
+
