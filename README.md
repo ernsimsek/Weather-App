@@ -41,13 +41,13 @@ const apiKey = "YOUR_API_KEY_HERE";
 <table>
   <tr>
     <td>
-      <img width="220" height="521" alt="Ekran görüntüsü 2026-02-05 174016" src="https://github.com/user-attachments/assets/c206b3db-c04a-4be5-b495-bc5f9072e390" />
+      <img width="247" height="521" alt="Ekran görüntüsü 2026-02-05 174016" src="https://github.com/user-attachments/assets/c206b3db-c04a-4be5-b495-bc5f9072e390" />
     </td>
     <td>
-      <img width="220" height="521" alt="Ekran görüntüsü 2026-02-05 174024" src="https://github.com/user-attachments/assets/3c6d396a-9149-45b7-94b2-df6875c99b7f" />
+      <img width="247" height="521" alt="Ekran görüntüsü 2026-02-05 174024" src="https://github.com/user-attachments/assets/3c6d396a-9149-45b7-94b2-df6875c99b7f" />
     </td>
     <td>
-      <img width="220" height="521" alt="Ekran görüntüsü 2026-04-17 132819" src="https://github.com/user-attachments/assets/672e6b3f-4058-44e9-8f1a-2f826d3aeb8d" />
+      <img width="247" height="521" alt="Ekran görüntüsü 2026-04-17 132819" src="https://github.com/user-attachments/assets/672e6b3f-4058-44e9-8f1a-2f826d3aeb8d" />
     </td>
   </tr>
 </table>
