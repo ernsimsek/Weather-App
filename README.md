@@ -1,3 +1,4 @@
+
 #  Weather App
 
 A simple and modern **Weather Web Application** that allows users to search for current weather conditions and view upcoming forecasts by city name or by using their current location.
@@ -42,3 +43,4 @@ const apiKey = "YOUR_API_KEY_HERE";
 
 <img width="247" height="521" alt="Ekran görüntüsü 2026-02-05 174024" src="https://github.com/user-attachments/assets/3c6d396a-9149-45b7-94b2-df6875c99b7f" />
 
+<img width="247" height="521" alt="Ekran görüntüsü 2026-04-17 132247" src="https://github.com/user-attachments/assets/d932e720-9852-4fba-b2f6-c1c131eaf3b6" />
